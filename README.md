@@ -1,4 +1,4 @@
-# Mestrado
+# Master
 
 ## Decision Tree Methods in Survival Analysis: An application cation to cancer dataset.
 
